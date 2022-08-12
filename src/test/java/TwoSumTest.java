@@ -8,7 +8,7 @@ public class TwoSumTest {
     TwoSumSolution twoSumSolution = new TwoSumSolution();
 
     @Test
-    public void testCalculateAppriasal() {
+    public void testTwoSumArray() {
         TwoSumSolution twoSumSolution = new TwoSumSolution();
         int array[] = {1, 2, 4, 7, 10};
         int expecOutput[] = {1, 4};
